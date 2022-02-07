@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b5098da-62e3-4ecb-8f58-b2ac422393f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24hWvtSd9Hgp6zmO2yaeVcpJAXK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.DoubleExistTest.break_1">
+    <configuration name="DoubleExistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="org.t1r0.home.array" />
+      <option name="MAIN_CLASS_NAME" value="org.t1r0.home.array.DoubleExistTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleExistTest.break_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="org.t1r0.home.array" />
+      <option name="MAIN_CLASS_NAME" value="org.t1r0.home.array.DoubleExistTest" />
+      <option name="METHOD_NAME" value="break_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateZerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="org.t1r0.home.array" />
+      <option name="MAIN_CLASS_NAME" value="org.t1r0.home.array.DuplicateZerosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="org.t1r0.home.array" />
+      <option name="MAIN_CLASS_NAME" value="org.t1r0.home.array.MergeSortedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedSquaresTest.requirements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="org.t1r0.home.array" />
+      <option name="MAIN_CLASS_NAME" value="org.t1r0.home.array.SortedSquaresTest" />
+      <option name="METHOD_NAME" value="requirements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DoubleExistTest.break_1" />
+        <item itemvalue="JUnit.DoubleExistTest" />
+        <item itemvalue="JUnit.MergeSortedTest" />
+        <item itemvalue="JUnit.DuplicateZerosTest" />
+        <item itemvalue="JUnit.SortedSquaresTest.requirements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b5098da-62e3-4ecb-8f58-b2ac422393f0" name="Changes" comment="" />
+      <created>1644083535043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644083535043</updated>
+      <workItem from="1644083536860" duration="8349000" />
+    </task>
+    <servers />
+  </component>
+</project>
